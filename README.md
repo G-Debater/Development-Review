@@ -3,11 +3,14 @@
 
 ## ✍ 개발 관련 독서 후 PT 및 토론 
 
-### ✔ 1차 발표
-| 책이름                                       | 발표 링크                 | 발표자 | 발표일 | 리뷰사진                        | 책사진 |
-| ------------------------------------------- | ------------------------ | ------ | ------ | ----------------------------- | ------------------------ |
-| 읽기 좋은 코드가 좋은 코드다 | [링크](https://binco.tistory.com/entry/%EC%9D%BD%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EA%B0%80-%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EB%8B%A4-%EC%B1%85%EB%A6%AC%EB%B7%B0) | 최웅빈 | 220604 | <img src="https://user-images.githubusercontent.com/77534863/174533041-e32b3422-bab7-470f-9d84-65f0c237c29a.jpg" width="100" height="100"/> | <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcFA8uq%2FbtrFGPS4GKu%2Fjiwaj4QOF0GufofC9M5f01%2Fimg.png" width="100" height="100"/>
-| 그림으로 공부하는 IT 인프라 구조 | [링크](https://doosicee.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-IT-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0%EC%A0%95%EB%A6%AC?category=1065345) | 최두식 | 220604 | <img src="https://user-images.githubusercontent.com/82255957/174920350-f5ee5b7f-4cac-4af4-8dc8-4f2168c4294b.png" width="100" height="100"/> | <img src="https://blog.kakaocdn.net/dn/bCcUAH/btrFf3bvipV/mMJNgegZWuwVCv4oAW6B80/img.png" width="100" height="100"/>
+### ✔ 최웅빈
+| 책이름                                       | 발표 링크                  | 발표일 | 리뷰사진                        | 책사진 |
+| ------------------------------------------- | ------------------------  | ------ | ----------------------------- | ------------------------ |
+| 읽기 좋은 코드가 좋은 코드다 | [링크](https://binco.tistory.com/entry/%EC%9D%BD%EA%B8%B0%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EA%B0%80-%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C%EB%8B%A4-%EC%B1%85%EB%A6%AC%EB%B7%B0) | 220604 | <img src="https://user-images.githubusercontent.com/77534863/174533041-e32b3422-bab7-470f-9d84-65f0c237c29a.jpg" width="100" height="100"/> | <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcFA8uq%2FbtrFGPS4GKu%2Fjiwaj4QOF0GufofC9M5f01%2Fimg.png" width="100" height="100"/>
+| 그림으로 공부하는 IT 인프라 구조 | [링크](https://doosicee.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-IT-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0%EC%A0%95%EB%A6%AC?category=1065345)  | 220604 | <img src="https://ifh.cc/g/R8J6XN.jpg" width="100" height="100"/> | <img src="https://blog.kakaocdn.net/dn/bCcUAH/btrFf3bvipV/mMJNgegZWuwVCv4oAW6B80/img.png" width="100" height="100"/> | <img src="https://blog.kakaocdn.net/dn/bCcUAH/btrFf3bvipV/mMJNgegZWuwVCv4oAW6B80/img.png" width="100" height="100"/>
+
+두식
+img src="https://user-images.githubusercontent.com/82255957/174920350-f5ee5b7f-4cac-4af4-8dc8-4f2168c4294b.png" width="100" height="100"/>
 
 ### ✔ 2차 발표
 | 책이름                                       | 발표 링크                 | 발표자 | 발표일 | 리뷰사진                        | 책사진 |
