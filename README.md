@@ -12,6 +12,8 @@
 |  | [AOP](https://binco.tistory.com/entry/AOPAspect-Oriented-Programming-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0?category=1016668) | 221005 | <img src="https://user-images.githubusercontent.com/77534863/193979461-e36285d3-e92e-41f4-a8af-eb376fbb0818.png" width="100" height="100"/>  |  |
 |  | [Entity 매핑](https://binco.tistory.com/entry/%EC%9E%90%EB%B0%94ORM%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91) | 221011 | <img src="https://user-images.githubusercontent.com/77534863/193979461-e36285d3-e92e-41f4-a8af-eb376fbb0818.png" width="100" height="100"/>  |  |
 
+<details><summary> 자료리스트</summary><div markdown="1">* [JPA란?](https://binco.tistory.com/entry/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-JPA%EB%9E%80)<br> * [AOP](https://binco.tistory.com/entry/AOPAspect-Oriented-Programming-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0?category=1016668)<br> * [Entity 매핑](https://binco.tistory.com/entry/%EC%9E%90%EB%B0%94ORM%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91)<br> * [4장 주석](https://doosicee.tistory.com/entry/CleanCode-4%EC%9E%A5-%EC%A3%BC%EC%84%9D)</div></details>
+
 
 
 
